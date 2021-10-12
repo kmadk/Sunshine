@@ -1,0 +1,33 @@
+{
+	"Contracts": {
+		"ShineToken": {
+			"name": "ShineToken",
+			"address": "0x7b2ad0f401eac4ec230f2ecb0541685e327d2f33",
+			"link": "https://kovan-optimistic.etherscan.io/address/0x7b2ad0f401eac4ec230f2ecb0541685e327d2f33",
+			"timestamp": "Oct-06-2021 10:45:40 PM +UTC",
+			"network": "optimistic-kovan"
+		},
+		"ShineRewards: {
+			"name": "ShineRewards",
+			"address": "0x46bbd60d9ab31ed7bf4537babb612eca9149320c",	
+			"link": "https://kovan-optimistic.etherscan.io/address/0x46bbd60d9ab31ed7bf4537babb612eca9149320c",
+			"timestamp": "Oct-06-2021 10:45:40 PM +UTC",
+			"network": "optimistic-kovan"
+		},
+		"ShineRewards: {
+			"name": "EthRewards",
+			"address": "0x868164cd1bc9e186966b8e10fd7fd974e3e62d56",	
+			"link": "https://kovan-optimistic.etherscan.io/address/0x868164cd1bc9e186966b8e10fd7fd974e3e62d56",
+			"timestamp": "Oct-06-2021 10:45:40 PM +UTC",
+			"network": "optimistic-kovan"
+		},
+		"ShineRewards: {
+			"name": "ShineRewards",
+			"address": "0x6713F495Be1da747f71F00954B7802d16499c9C3",	
+			"link": "https://kovan-optimistic.etherscan.io/address/0x6713f495be1da747f71f00954b7802d16499c9c3",
+			"timestamp": "Oct-06-2021 10:45:40 PM +UTC",
+			"network": "optimistic-kovan"
+		}
+  }
+}
+	
