@@ -19,7 +19,7 @@ exports.default = {
         gasPrice: 15000000,
       }
     },
-    etherscan: { apiKey: '2K6ZF6CMS5YJDYYZ18BB2EYRIT7V2JAPJY' },
+    etherscan: { apiKey: '' },
     ovm: {
         solcVersion: '0.7.6'
       }
