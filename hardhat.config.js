@@ -15,7 +15,7 @@ exports.default = {
         optimisticKovan: {
         url: 'https://kovan.optimism.io',
         ovm: true,
-        accounts: { mnemonic: 'thing between emerge know sentence lizard wealth stable maple anxiety slam link' },
+        accounts: { mnemonic: '' },
         gasPrice: 15000000,
       }
     },
